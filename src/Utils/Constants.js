@@ -9,16 +9,6 @@ export const tokens = {
     amount: 1,
     img: 'https://res.cloudinary.com/da7jhtpgh/image/upload/v1508609483/bitcoin_eqld4v.png'
   },
-  LTC: {
-    url: '/litecoin/',
-    amount: 1,
-    img: 'https://res.cloudinary.com/da7jhtpgh/image/upload/v1508609485/litecoin_q8e17h.png'
-  },
-  BCH: {
-    url: '/bitcoin-cash/',
-    amount: 1,
-    img: 'https://res.cloudinary.com/da7jhtpgh/image/upload/v1508609483/bitcoin-cash_cvt54z.png'
-  },
   ETH: {
     url: '/ethereum/',
     amount: 1,
@@ -29,20 +19,15 @@ export const tokens = {
     amount: 1,
     img: 'https://res.cloudinary.com/da7jhtpgh/image/upload/v1508609486/ripple_p0xeut.png'
   },
-  DASH: {
-    url: '/dash/',
+  ARK: {
+    url: '/ark/',
     amount: 1,
-    img: 'https://res.cloudinary.com/da7jhtpgh/image/upload/v1508609484/dash_oltvqi.png'
+    img: 'https://files.coinmarketcap.com/static/img/coins/32x32/ark.png'
   },
-  EOS: {
-    url: '/eos/',
+  CVC: {
+    url: '/civic/',
     amount: 1,
-    img: 'https://files.coinmarketcap.com/static/img/coins/32x32/eos.png'
-  },
-  OMG: {
-    url: '/omisego/',
-    amount: 1,
-    img: 'https://steemitimages.com/DQmbaqDKYdWHJ6BwLxQ8y7tF16mRfJzLiPdRyr9TsSFRxRj/a4f52757-b0de-41f5-842f-a64168093123.png'
+    img: 'https://files.coinmarketcap.com/static/img/coins/32x32/civic.png'
   },
   SALT: {
     url: '/salt/',
